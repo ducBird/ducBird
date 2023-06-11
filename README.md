@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/1BjW0LNnhSyurA6Xw8/giphy.gif" width="30px"/>
 </h1>
 -->
-:fire: My Stats :
+<!-- :fire: My Stars :
 <br />
 <br />
 <div align="center">
@@ -23,6 +23,6 @@
 <br />
 <div align="center">
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducBird&layout=compact&theme=radical" />
-<div/>
+<div/> -->
 
   
